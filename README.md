@@ -7,4 +7,4 @@
 1. [Andriod AutoShowroom Application](https://drive.google.com/drive/folders/1kwmosVDy1jzkXgLtQ4hISctn07eCwKD2?usp=sharing)
 2. [Jurassic Park Game](https://github.com/fahm0012/Jurassic-Park-Game-.git)
 3. [Classic Ping Pong Game](https://github.com/fahm0012/Classic-Ping-Pong-Game)
-4. [Created Player For Card Game Called Rummy](https://github.com/fahm0012/Player-for-a-card-game-called-rummy-)
+4. [Created Player For A Card Game Called Rummy](https://github.com/fahm0012/Player-for-a-card-game-called-rummy-)
