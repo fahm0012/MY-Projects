@@ -10,3 +10,4 @@
 4. [Created Player For A Card Game Called Rummy](https://github.com/fahm0012/Player-for-a-card-game-called-rummy-)
 5. [Digital Service/Product that Improve Education Delivery During Pandemic UI/UX](https://github.com/fahm0012/Digital-Service-Product-that-Improve-Education-Delivery-During-Pandemic-UI-UX)
 6. [Research Project on Autonomous Vehicles & COVID-19](https://github.com/fahm0012/Research-Project-on-Autonomous-Vehicles-COVID-19)
+7. [Techta](https://datatech-techta.herokuapp.com/)
